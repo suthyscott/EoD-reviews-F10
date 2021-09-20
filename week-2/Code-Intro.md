@@ -11,6 +11,7 @@ What are the common command line commands you used in the lab today?
 - mkdir
 
 What is a use case where you would not have access to a GUI and would need to use the command line?
+ - npm
 
 What is git?
 
