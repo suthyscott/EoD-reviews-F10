@@ -5,6 +5,8 @@ What are the four types of testing we talked about this morning?
  - non-functional
 
 Usability testing is a type of testing the considers the user perspective. What are the two main considerations in usability testing? 
+- functionality
+- form
 
 What are unit test?
 Testing the smallest pieces of an application. 

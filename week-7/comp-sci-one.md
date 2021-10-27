@@ -1,5 +1,5 @@
 What is runtime complexity? 
- - Runtime complexity is way to describes the performance of an algorithm
+ - Runtime complexity is way to describe the performance of an algorithm
  - How long does it take my program to run compared to how much workload I have, where workload is the length of a list.
 
 What are some common runtimes? 

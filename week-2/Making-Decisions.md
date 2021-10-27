@@ -6,7 +6,7 @@ Logical operators
 
 Conditionals
 
-- When would you use and else if vs an else?
+- When would you use an else if vs an else? (Specific condition vs catch-all)
 
 Arrays
 
@@ -24,7 +24,7 @@ Arrays
 
 For Loops
 
-- What is a for loop?
+- What is a for loop? (A way to run a code block a certain amount of times)
 - What are the three arguments in a for loop?
 - How is a for loop used to iterate over an array?
 - Are loops and arrays connected?

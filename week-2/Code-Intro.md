@@ -2,6 +2,8 @@ How did the lab go?
 What questions did you have this afternoon?
 What questions do you have?
 
+How is pair programming going?
+
 What are the common command line commands you used in the lab today?
 
 - ls
