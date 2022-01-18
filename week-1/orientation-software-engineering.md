@@ -5,6 +5,38 @@ How would you review that day's lecture content?
 
 Where would you be able to find important messages in the discord channel? 
 
+
+## Software Development
+
+What is software development? 
+- Software development is the process of creating, designing, testing, and deploying software for customers to use.
+
+What is a tech stack? 
+- A tech stack is a set of technologies that work together to form the core languages and frameworks of a project, application, or product.
+
+What are some common languages in modern stacks?
+
+Explain software engineering vs web development. 
+
+## Misc.
+
+Have you added your GitHub URL and a photo to Frodo? 
+
+File types; don't use pages or docx. .md, .txt, and .pdf are all acceptable. 
+
+
+
+
+The following extensions are helpful: 
+Auto Close Tag
+Auto Rename Tag
+Bracket Pair Colorizer 
+ENV (formatter)
+GitLens
+Live Server
+Open in browser
+Path Intellisense
+
 What are some of the things you should do to help yourself succeed while you're at DevMountain? 
 - Go all in, plan on studying before/after class
 - Have fun 🎸
@@ -26,29 +58,4 @@ What are some things you should not do?
 - Plan on a normal social life
 - Work a part-time or full-time job during this program
 
-
-
-## Software Development
-
-What is software development? 
-- Software development is the process of creating, designing, testing, and deploying software for customers to use.
-
-What is a tech stack? 
-- A tech stack is a set of technologies that work together to form the core languages and frameworks of a project, application, or product.
-
-What are some common languages in modern stacks?
-
-Explain software engineering vs web development. 
-
-
-
-The following extensions are helpful: 
-Auto Close Tag
-Auto Rename Tag
-Bracket Pair Colorizer 
-ENV (formatter)
-GitLens
-Live Server
-Open in browser
-Path Intellisense
 Prettier

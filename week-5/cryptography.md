@@ -1,5 +1,7 @@
 how server refresh works. 
 
+"cannot set headers after they are sent to the client"
+
 What is a hash?
 
 What is SSH? 
